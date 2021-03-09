@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MySomeTemplate.dir/main.cpp.o CMakeFiles/MySomeTemplate.dir/make2dArray.cpp.o  -o MySomeTemplate 

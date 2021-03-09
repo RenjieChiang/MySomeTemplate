@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tianbot/CLionProjects/MySomeTemplate/make2dArray.cpp
+make2dArray.h
+/home/tianbot/CLionProjects/MySomeTemplate/make2dArray.h
+
+/home/tianbot/CLionProjects/MySomeTemplate/make2dArray.h
+string
+/home/tianbot/CLionProjects/MySomeTemplate/string
+algorithm
+/home/tianbot/CLionProjects/MySomeTemplate/algorithm
+vector
+/home/tianbot/CLionProjects/MySomeTemplate/vector
+list
+/home/tianbot/CLionProjects/MySomeTemplate/list
+
