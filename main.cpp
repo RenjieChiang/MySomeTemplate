@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "Permutation_recursion.h"
 int main() {
 
 //    typedef int T;
@@ -15,5 +15,7 @@ int main() {
 //        delete [] x[i];
 //    }
 //    delete [] x;
+    int my_perm[3] = {1, 2, 3};
+    permutations<int>(my_perm, 0, 2);
     return 0;
 }

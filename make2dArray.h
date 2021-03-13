@@ -5,11 +5,7 @@
 #ifndef MYSOMETEMPLATE_MAKE2DARRAY_H
 #define MYSOMETEMPLATE_MAKE2DARRAY_H
 
-#include "string"
-#include "algorithm"
-#include "vector"
-#include "list"
-
+#include "my_template_include.h"
 
 //throw bad_alloc
 //@param x 2dArray store address
