@@ -23,6 +23,7 @@ void permutations(T list[], int k, int m)
         std::swap(list[k], list[i]);
         permutations(list, k+1, m);
         std::swap(list[i], list[k]);//swap是需要的， 这样可以使得每一次进行子排列的时候都是 前 后分离
+
     }
 }
 

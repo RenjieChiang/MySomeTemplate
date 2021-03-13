@@ -10,6 +10,7 @@
 #include "vector"
 #include "list"
 #include "iostream"
-#include "iterator"
+#include "iterator"//istream_iterator
+#include "numeric" //accumulate
 
 #endif //MYSOMETEMPLATE_MY_TEMPLATE_INCLUDE_H

@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/tianbot/CLionProjects/MySomeTemplate/make2dArray.cpp
-make2dArray.h
-/home/tianbot/CLionProjects/MySomeTemplate/make2dArray.h
+/home/tianbot/CLionProjects/MySomeTemplate/main.cpp
+iostream
+-
+permutation_use_stl.h
+/home/tianbot/CLionProjects/MySomeTemplate/permutation_use_stl.h
 
-/home/tianbot/CLionProjects/MySomeTemplate/make2dArray.h
+/home/tianbot/CLionProjects/MySomeTemplate/my_template_include.h
 string
 /home/tianbot/CLionProjects/MySomeTemplate/string
 algorithm
@@ -19,4 +21,14 @@ vector
 /home/tianbot/CLionProjects/MySomeTemplate/vector
 list
 /home/tianbot/CLionProjects/MySomeTemplate/list
+iostream
+/home/tianbot/CLionProjects/MySomeTemplate/iostream
+iterator
+/home/tianbot/CLionProjects/MySomeTemplate/iterator
+numeric
+/home/tianbot/CLionProjects/MySomeTemplate/numeric
+
+/home/tianbot/CLionProjects/MySomeTemplate/permutation_use_stl.h
+my_template_include.h
+/home/tianbot/CLionProjects/MySomeTemplate/my_template_include.h
 

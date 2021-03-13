@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/tianbot/CLionProjects/MySomeTemplate/Permutation_recursion.h">
+			<Option target="MySomeTemplate"/>
+		</Unit>
 		<Unit filename="/home/tianbot/CLionProjects/MySomeTemplate/main.cpp">
 			<Option target="MySomeTemplate"/>
 		</Unit>
@@ -91,6 +94,12 @@
 			<Option target="MySomeTemplate"/>
 		</Unit>
 		<Unit filename="/home/tianbot/CLionProjects/MySomeTemplate/make2dArray.h">
+			<Option target="MySomeTemplate"/>
+		</Unit>
+		<Unit filename="/home/tianbot/CLionProjects/MySomeTemplate/my_template_include.h">
+			<Option target="MySomeTemplate"/>
+		</Unit>
+		<Unit filename="/home/tianbot/CLionProjects/MySomeTemplate/permutation_use_stl.h">
 			<Option target="MySomeTemplate"/>
 		</Unit>
 		<Unit filename="/home/tianbot/CLionProjects/MySomeTemplate/CMakeLists.txt">

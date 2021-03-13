@@ -3,4 +3,4 @@ project(MySomeTemplate)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(MySomeTemplate main.cpp make2dArray.cpp make2dArray.h Permutation_recursion.h my_template_include.h)
+add_executable(MySomeTemplate main.cpp make2dArray.cpp make2dArray.h Permutation_recursion.h my_template_include.h permutation_use_stl.h)
